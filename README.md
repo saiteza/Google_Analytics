@@ -46,4 +46,4 @@
  >>Now You can add custom Variables in tags.
  >>You can Enable Built-In Variables by selecting configure in Configure Built-In Variables section .
  
- After doing all Development Click on submit 
+ After Completed all Development Click on submit 
